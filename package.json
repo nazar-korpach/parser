@@ -1,0 +1,25 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "Paser for test task for omastere",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazar-korpach/parser.git"
+  },
+  "author": "Korpach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazar-korpach/parser/issues"
+  },
+  "homepage": "https://github.com/nazar-korpach/parser#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.6.0"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.1.8"
+  }
+}
